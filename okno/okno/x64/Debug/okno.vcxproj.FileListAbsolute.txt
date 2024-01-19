@@ -1,0 +1,7 @@
+D:\cod\okno\okno\x64\Debug\okno.vcxproj.AssemblyReference.cache
+D:\cod\okno\okno\x64\Debug\okno.MyForm.resources
+D:\cod\okno\okno\x64\Debug\okno.vcxproj.GenerateResource.cache
+D:\cod\курсач\okno\okno\x64\Debug\okno.vcxproj.AssemblyReference.cache
+D:\cod\курсач\okno\okno\x64\Debug\okno.MyForm.resources
+D:\cod\курсач\okno\okno\x64\Debug\okno.vcxproj.GenerateResource.cache
+D:\cod\okno\okno\x64\Debug\okno.Spravka.resources

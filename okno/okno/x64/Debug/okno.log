@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+D:\cod\okno\okno\Header.cpp(3,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\cod\okno\okno\Header.cpp(389,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\cod\okno\okno\MyForm.h(410,16): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\cod\okno\okno\MyForm.h(547,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\cod\okno\okno\MyForm.h(582,15): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\cod\okno\okno\MyForm.h(637,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\cod\okno\okno\MyForm.h(391): warning C4715: okno::MyForm::eps_: значение возвращается не при всех путях выполнения
+D:\cod\okno\okno\Header.cpp(385): warning C4715: Integrate::check: значение возвращается не при всех путях выполнения
+D:\cod\okno\okno\Header.cpp(606): warning C4715: integrate: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  okno.vcxproj -> D:\cod\okno\x64\Debug\okno.exe
